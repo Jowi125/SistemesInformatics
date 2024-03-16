@@ -1,0 +1,45 @@
+Marina; Rodriguez; marina.rodriguez; Vendes
+Jordi; Gómez; jordi.gomez; Finances
+Elena; Martínez; elena.martinez; Marketing
+Pablo; Sánchez; pablo.sanchez; Enginyeria
+Sara; López; sara.lopez; Recursos Humans
+Carlos; Vidal; carlos.vidal; Tecnologia de la Informació
+Laura; Torres; laura.torres; Operacions
+Marc; García; marc.garcia; Desenvolupament de Negocis
+Núria; Ruiz; nuria.ruiz; Servei al Client
+David; Pérez; david.perez; Vendes
+Clara; Fernández; clara.fernandez; Finances
+Albert; López; albert.lopez; Marketing
+Natalia; Martí; natalia.marti; Enginyeria
+Ricard; Serra; ricard.serra; Recursos Humans
+Anna; Navarro; anna.navarro; Tecnologia de la Informació
+Xavier; Soler; xavier.soler; Operacions
+Carla; García; carla.garcia; Desenvolupament de Negocis
+Joan; Torres; joan.torres; Servei al Client
+Eva; Fernández; eva.fernandez; Vendes
+Raul; Rodríguez; raul.rodriguez; Finances
+Marta; Pérez; marta.perez; Marketing
+Arnau; Gómez; arnau.gomez; Enginyeria
+Laura; Sánchez; laura.sanchez; Recursos Humans
+Oscar; Vidal; oscar.vidal; Tecnologia de la Informació
+Elena; Torres; elena.torres; Operacions
+Alex; García; alex.garcia; Desenvolupament de Negocis
+Cristina; Ruiz; cristina.ruiz; Servei al Client
+Daniel; Pérez; daniel.perez; Vendes
+Monica; Fernández; monica.fernandez; Finances
+Roberto; López; roberto.lopez; Marketing
+Lorena; Martí; lorena.marti; Enginyeria
+Sergi; Serra; sergi.serra; Recursos Humans
+Natalia; Navarro; natalia.navarro; Tecnologia de la Informació
+Jordi; Soler; jordi.soler; Operacions
+Carolina; García; carolina.garcia; Desenvolupament de Negocis
+Eric; Torres; eric.torres; Servei al Client
+Clara; Fernández; clara.fernandez; Vendes
+Ivan; Rodríguez; ivan.rodriguez; Finances
+Aina; Pérez; aina.perez; Marketing
+Marc; Gómez; marc.gomez; Enginyeria
+Marta; Sánchez; marta.sanchez; Recursos Humans
+Jordi; Vidal; jordi.vidal; Tecnologia de la Informació
+Laura; Torres; laura.torres; Operacions
+Carlos; García; carlos.garcia; Desenvolupament de Negocis
+Sara; Ruiz; sara.ruiz; Servei al Client

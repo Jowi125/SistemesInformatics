@@ -1,0 +1,15 @@
+Amb la ip 192.10.10.0 Volem crear 14 subxarxes amb 14 hosts per xarxa.
+
+1/2-És una IP de classe C per lo tant la màscara és /24
+3-La mascara adaptada sera /28 ya que 2⁴ són 16
+4-El numero de reds utils sera 14
+5-El numero de hosts utils sera 14, ya que tendrem per als hosts 2⁴ bits -2
+
+
+
+Amb la IP 165.100.0.0 necessitem fer 1000 subxarxes amb 60 hosts cada una.
+
+1/2-És una IP de classe C, per tant la mascarqa és /16
+3-La mascara adaptada seria /26, ya que 2¹⁰ són 1024.
+4-El numero de reds utils serien 1022
+5-El numero de hosts utils és 2(6) - 2, que serien 62

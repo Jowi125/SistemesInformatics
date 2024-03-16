@@ -1,0 +1,41 @@
+Modo de empleo: cut OPCIÓN... [FICHERO]...
+Extrae las partes seleccionadas de cada FICHERO en la salida estándar:
+
+Sin FICHERO, o cuando FICHERO es -, lee la entrada estándar.
+
+Los argumentos obligatorios para las opciones largas son también obligatorios
+para las opciones cortas.
+  -b, --bytes=LISTA       muestra solamente estos bytes
+  -c, --characters=LISTA  selecciona solamente estos caracteres
+  -d, --delimiter=DELIM   usa DELIM en vez de caracteres de tabulación para delimitar los campos
+  -f, --fields=LISTA selecciona solamente estos campos; también muestra
+                            cualquier línea que no tenga un carácter
+                            delimitador, a menos que se especifique la
+                            opción -s
+  -n                      (no tiene efecto)
+      --complement        complementa el conjunto de bytes, caracteres o campos
+                            seleccionados
+  -s, --only-delimited    no muestra las líneas que no contienen
+                          delimitadores
+      --output-delimiter=CADENA  utiliza CADENA como el delimitador del
+                            resultado. Por omisión se utiliza el
+                            delimitador de la entrada
+  -z, --zero-terminated    line delimiter is NUL, not newline
+      --help     muestra esta ayuda y finaliza
+      --version  informa de la versión y finaliza
+
+Utilice uno, y solamente uno de -b, -c o -f. Cada LISTA está compuesta por un
+rango, o muchos rangos separados por comas. La entrada seleccionada se escribe
+en el mismo orden en el que se lee, y se escribe exactamente una vez.
+Each range is one of:
+
+  N     N'th byte, character or field, counted from 1
+  N-    from N'th byte, character or field, to end of line
+  N-M   from N'th to M'th (included) byte, character or field
+  -M    from first to M'th (included) byte, character or field
+
+ayuda en línea sobre GNU coreutils: <https://www.gnu.org/software/coreutils/>
+Report cut translation bugs to <https://translationproject.org/team/>
+Full documentation at: <https://www.gnu.org/software/coreutils/cut>
+or available locally via: info '(coreutils) cut invocation'
+vie 12 ene 2024 19:19:23 CET
